@@ -1,0 +1,13 @@
+@font-face{
+	font-family: Segoe UI;
+	src:url(Segoe UI.ttf);
+}
+body{
+	background-color: black;
+	color: #7DD301;
+	text-align: center;
+	font-family: Segoe UI;
+}
+a{
+	color: white;
+}
