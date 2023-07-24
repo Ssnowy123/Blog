@@ -8,7 +8,7 @@ body{
 	font-family: Segoe UI;
 }
 p{
-	text-align: center;
+	justify-content: center;
 	font-size: 410;
 }
 h1,h2,h4{
