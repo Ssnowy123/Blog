@@ -7,15 +7,12 @@ body{
 	color: #7DD301;
 	font-family: Segoe UI;
 }
-li{
-	text-align: center;
-	font-size: 410;
-}
 h1,h2,h4{
 	text-align: center;
 }
 a{
 	color: #7DD301;
+	text-align: center;
 }
 /* The sidepanel menu */
 .sidepanel {
