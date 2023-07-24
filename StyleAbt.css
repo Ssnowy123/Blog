@@ -7,6 +7,10 @@ body{
 	color: #7DD301;
 	font-family: Segoe UI;
 }
+p{
+	text-align: center;
+	font-size: 41;
+}
 h1,h2,h4{
 	text-align: center;
 }
